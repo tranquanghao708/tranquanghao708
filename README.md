@@ -25,12 +25,21 @@ I don’t claim to be anything special — just someone who likes solving techni
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-+ Reverse Engineering
-+ Binary Analysis / Malware Analysis (basic → intermediate)
-+ Low-level programming (C, Assembly)
-+ Linux internals & system programming
-+ Debugging & vulnerability research (learning)
-  
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80" width="300" style="border-radius: 30px;"/>
+- Reverse Engineering  
+- Binary Analysis / Malware Analysis (basic → intermediate)  
+- Low-level programming (C, Assembly)  
+- Linux internals & system programming  
+- Debugging & vulnerability research (learning)
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80" 
+     width="300" 
+     style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+
+</td>
+</tr>
+</table>
