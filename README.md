@@ -23,8 +23,6 @@ I don’t claim to be anything special — just someone who likes solving techni
 
 ### What I usually work with
 
-### What I usually work with
-
 <table>
 <tr>
 <td width="55%">
@@ -35,4 +33,4 @@ I don’t claim to be anything special — just someone who likes solving techni
 + Linux internals & system programming
 + Debugging & vulnerability research (learning)
   
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80" width="300" style="border-radius: 8px;"/>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80" width="300" style="border-radius: 30px;"/>
