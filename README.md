@@ -29,3 +29,4 @@ I don’t claim to be anything special — just someone who likes solving techni
 + Low-level programming (C, Assembly)
 + Linux internals & system programming
 + Debugging & vulnerability research (learning)
+```
