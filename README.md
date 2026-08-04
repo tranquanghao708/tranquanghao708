@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:00C853,100:1A1A1A&height=200&section=header&text=Suofcrack%20Lofursina%20Carnkhra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Low-level%20%26%20Reverse%20Engineering&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day)](https://git.io/typing-svg)
 
 <br>
@@ -13,10 +9,7 @@
 <img src="https://img.shields.io/badge/Area-System+%26+Binary-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge&logo=todoist&logoColor=white" />
 
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tranquanghao708&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/tranquanghao708?style=for-the-badge&color=00C853&labelColor=1A1A1A)
+<br>
 
 </div>
 
@@ -62,39 +55,6 @@ philosophy:       "Understand it before you break it."
 </td>
 </tr>
 </table>
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vim&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IDA%20Pro-6C0CFF?style=flat-square&logo=ida&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghidra-2C3E50?style=flat-square&logo=nsa&logoColor=white" />
-<img src="https://img.shields.io/badge/GDB-red?style=flat-square&logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Radare2-000000?style=flat-square&logo=radare2&logoColor=white" />
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tranquanghao708&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquanghao708&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=c9d1d9" width="35%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquanghao708&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" width="60%"/>
-
-</div>
 
 <br>
 
