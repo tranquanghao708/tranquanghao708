@@ -29,7 +29,6 @@ I don’t claim to be anything special — just someone who likes solving techni
 <tr>
 <td width="55%">
 
-```diff
 + Reverse Engineering
 + Binary Analysis / Malware Analysis (basic → intermediate)
 + Low-level programming (C, Assembly)
@@ -39,4 +38,3 @@ I don’t claim to be anything special — just someone who likes solving techni
 alt="Precision Screwdriver on Motherboard"
 width="300"
 style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"/>
-```
