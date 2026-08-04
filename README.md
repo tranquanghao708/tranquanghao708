@@ -34,7 +34,5 @@ I don’t claim to be anything special — just someone who likes solving techni
 + Low-level programming (C, Assembly)
 + Linux internals & system programming
 + Debugging & vulnerability research (learning)
-<img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=400&h=300&fit=crop&q=80"
-alt="Precision Screwdriver on Motherboard"
-width="300"
-style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);"/>
+  
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80" width="300" style="border-radius: 8px;"/>
