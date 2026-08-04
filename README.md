@@ -23,8 +23,19 @@ I don’t claim to be anything special — just someone who likes solving techni
 
 ### What I usually work with
 
+### What I usually work with
+
+<table>
+<tr>
+<td width="55%">
+
 + Reverse Engineering
-+ Binary Analysis
++ Binary Analysis / Malware Analysis (basic → intermediate)
 + Low-level programming (C, Assembly)
 + Linux internals & system programming
 + Debugging & vulnerability research (learning)
++ 
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=420&h=320&fit=crop&q=80"
+alt="CPU / Motherboard + Tools"
+width="320"
+style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
