@@ -20,21 +20,23 @@
 
 <table>
 <tr>
-<td width="60%">
 
-Mình có tên thật là Hào, là một người bình thường và thích tìm hiểu xem phần mềm thật sự hoạt động như thế nào ở tầng thấp nhất. Mình đã xuất phát khá sớm để theo đuổi và học hỏi về mảng này
+<td width="58%" valign="top">
 
-Phần lớn thời gian mình dành cho các chủ đề cybersecurity low-level: **reverse engineering**, **binary analysis**, và tìm hiểu **system internals**. Không nhận mình là gì đặc biệt — chỉ là người thích giải quyết vấn đề kỹ thuật và học bằng cách thực hành (*learning by doing*).
+Mình tên là Hào, thích tìm hiểu xem phần mềm thật sự hoạt động như thế nào ở tầng thấp nhất.
 
-Tuy còn chưa có thể đủ khả năng để làm được điều gì cao siêu, minh luôn nuôi dưỡng niềm tin rằng mình sẽ làm được một project nhỏ và tiếp tục học tập cho con đường của mình
+Phần lớn thời gian mình dành cho **reverse engineering**, **binary analysis** và **system internals**. Mình học chủ yếu bằng cách thực hành (*learning by doing*).
+
+Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hiện tại là hoàn thành những project nhỏ và tiếp tục tiến bộ từng ngày.
+
+</td>
+
+<td width="42%" align="center" valign="top">
+
+<img src=me.png width="225"/>
 
 </td>
 
-<td width="40%" align="center">
-
-<img src=me.png width="250"/>
-
-</td>
 </tr>
 </table>
 
