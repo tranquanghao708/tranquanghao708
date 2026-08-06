@@ -18,9 +18,23 @@
 
 ## Về mình
 
+<table>
+<tr>
+<td width="60%">
+
 > Mình là một người bình thường, thích tìm hiểu xem phần mềm thật sự hoạt động như thế nào ở tầng thấp nhất.
 
 Phần lớn thời gian mình dành cho các chủ đề cybersecurity low-level: **reverse engineering**, **binary analysis**, và tìm hiểu **system internals**. Không nhận mình là gì đặc biệt — chỉ là người thích giải quyết vấn đề kỹ thuật và học bằng cách thực hành (*learning by doing*).
+
+</td>
+
+<td width="40%" align="center">
+
+<img src=me.png width="250"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
