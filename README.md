@@ -22,9 +22,11 @@
 <tr>
 <td width="60%">
 
-> Mình là một người bình thường, thích tìm hiểu xem phần mềm thật sự hoạt động như thế nào ở tầng thấp nhất.
+Mình có tên thật là Hào, là một người bình thường và thích tìm hiểu xem phần mềm thật sự hoạt động như thế nào ở tầng thấp nhất. Mình đã xuất phát khá sớm để theo đuổi và học hỏi về mảng này
 
 Phần lớn thời gian mình dành cho các chủ đề cybersecurity low-level: **reverse engineering**, **binary analysis**, và tìm hiểu **system internals**. Không nhận mình là gì đặc biệt — chỉ là người thích giải quyết vấn đề kỹ thuật và học bằng cách thực hành (*learning by doing*).
+
+Tuy còn chưa có thể đủ khả năng để làm được điều gì cao siêu, minh luôn nuôi dưỡng niềm tin rằng mình sẽ làm được một project nhỏ và tiếp tục học tập cho con đường của mình
 
 </td>
 
