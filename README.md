@@ -77,4 +77,10 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 </div>
 
+<div align="center">
+     
+*Nếu một bài trở nên xuất sắc đối với một học sinh, nhưng với nhà tuyển dụng nó như một đống rác bỏ đi.*
+     
+</div>
+
 <br>
