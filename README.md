@@ -81,7 +81,11 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
      
 *Nếu một bài trở nên xuất sắc đối với một học sinh, nhưng với nhà tuyển dụng nó như một đống rác bỏ đi giống như bài toán 1+1=2 đạt 10 điểm lớp 1 nhưng với lớp 10 nó lại chưa tới nỗi 1 điểm. Nhiệm vụ của tôi là cải tiến và cải tiến từ những lỗi sai, rút kinh nghiệm về sau*
 
-<div align="right">(Trần Quang Hào)</div>
+<div align="right"> 
+     
+*(Trần Quang Hào)*
+
+</div>
 
 </div>
 
