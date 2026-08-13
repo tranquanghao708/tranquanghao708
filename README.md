@@ -27,7 +27,7 @@ Mình tên là Hào, thích tìm hiểu xem phần mềm thật sự hoạt đ�
 
 Phần lớn thời gian mình dành cho **reverse engineering**, **binary analysis** và **system internals**. Mình học chủ yếu bằng cách thực hành (*learning by doing*).
 
-Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hiện tại là hoàn thành những project nhỏ và tiếp tục tiến bộ từng ngày. Đặc biệt, mình rất thích research (nghiên cứu) mình thực sự muốn làm một tiến sĩ về kỹ thuật máy tính dưới lớp phần mềm (software), phần cứng (hardware) lẫn an ninh máy tính cấp thấp (cyber security low-level), chính vì thế mình luôn đào sâu mọi ngóc ngách của chương học liên quan và luôn đặt câu hỏi vì sao cho mọi thắc mắc mình ko hiểu.
+Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hiện tại là **hoàn thành những project nhỏ và tiếp tục tiến bộ từng ngày**. Đặc biệt, mình rất thích **research (nghiên cứu)** mình thực sự muốn làm một tiến sĩ về kỹ thuật máy tính dưới lớp **phần mềm (software)**, **phần cứng (hardware)** lẫn **an ninh máy tính cấp thấp (cyber security low-level)**, chính vì thế mình luôn đào sâu mọi ngóc ngách của chương học liên quan và luôn đặt câu hỏi vì sao cho mọi thắc mắc mình ko hiểu.
 
 </td>
 
