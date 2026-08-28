@@ -69,14 +69,6 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 <br>
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tranquanghao708&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C853&line=00C853&point=ffffff" width="90%"/>
-
-</div>
-
 <div align="center">
      
 *Cây ko gốc, cây ko vững. Hạn chế làm một công trình bên ngoài, hãy làm một công trình bên trong. Càng đồ sộ, càng tốt*
