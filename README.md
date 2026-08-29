@@ -44,6 +44,7 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 ## Những gì mình thường làm việc cùng
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -66,6 +67,7 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
