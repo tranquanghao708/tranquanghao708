@@ -73,7 +73,7 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 <div align="center">
      
-*Niềm hư ảo trong vinh quang, nữa tỉnh, nữa mơ, đôi khi luôn tự đặt một câu hỏi "Trưởng thành là gì?", là người có thể sửa sai của ta trong hiện tại hay là chính ta hiện tại đang ngồi đây viết văn?. Ừm, sự tiến trưởng của một giấc mơ đã lụi tàn một thời ,hỏi nó đã hồi sinh ừ thì nó đã hồi sinh, đã thức giấc trong gang tấc với sự tò mò và lặng lẽ đơn côi hiếm ai thấu hiểu được ý nghĩa những công việc đang giang giở như chính ta?. Điều đó hiển nhiên là cái giá cần phải kết bạn khi đi theo con đường của một nhà nghiên cứu*
+*Bạn nói 1+1=2, tôi nói 1+1=10. Cả hai thằng đều đúng nhưng cả hai thằng đều sai, tôi ko nhìn một trong hai, tôi nhìn hệ cơ số*
 
 <div align="right"> 
      
