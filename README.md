@@ -61,11 +61,11 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 </td>
 <td width="45%" align="center" valign="middle">
-
+<kbd>
 <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop&q=80"
      width="300"
      style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,83,0.25);"/>
-
+<kbd>
 </td>
 </tr>
 </table>
