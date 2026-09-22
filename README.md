@@ -32,11 +32,11 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 </td>
 
 <td width="82%" align="center" valign="top">
-<kdb>
+<kbd>
 
    <img src=me.png width="425"/>
 
-</kdb>
+</kbd>
 </td>
 
 </tr>
