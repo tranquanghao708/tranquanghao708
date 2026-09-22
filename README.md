@@ -31,7 +31,7 @@ Mình chưa đủ giỏi để tạo ra điều gì lớn, nhưng mục tiêu hi
 
 </td>
 
-<td width="42%" align="center" valign="top">
+<td width="82%" align="center" valign="top">
 
 <img src=me.png width="225"/>
 
