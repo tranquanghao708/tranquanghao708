@@ -1,23 +1,23 @@
 <table>
 <tr>
-<div>
-<img src="./image1.svg" width="50%"/>
-</div>
-<div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day)](https://git.io/typing-svg)
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=tranquanghao708)
-
-<br>
-
-</div>
+<td align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=420&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day" alt="Typing SVG" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="./image1.svg" width="50%"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=tranquanghao708" alt="Profile views">
+</td>
 </tr>
 </table>
-
-<br>
 
 ## Về mình
 
