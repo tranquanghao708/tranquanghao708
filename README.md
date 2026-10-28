@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="500%">
 <tr>
   <td width="40%" align="center" valign="middle">
     <img src="./image1.svg" width="90%"/>
