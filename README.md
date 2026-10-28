@@ -1,18 +1,20 @@
-<table width="500%">
-<tr>
-  <td width="40%" align="center" valign="middle">
-    <img src="./image1.svg" width="90%"/>
-  </td>
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="38%" align="center" valign="middle">
+        <img src="./image1.svg" width="100%" style="border-radius: 8px;" />
+      </td>
+      <td width="62%" align="center" valign="middle">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=780&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day" alt="Typing SVG" />
+        </a>
+        <br><br>
+        <img src="https://komarev.com/ghpvc/?username=tranquanghao708" alt="Profile views">
+      </td>
+    </tr>
+  </table>
+</p>
 
-  <td width="60%" align="center" valign="middle" nowrap>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day" alt="Typing SVG" />
-    </a>
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=tranquanghao708" alt="Profile views">
-  </td>
-</tr>
-</table>
 ## Về mình
 
 <table>
