@@ -2,9 +2,7 @@
   <table width="100%">
     <tr>
       <td width="48%" align="center" valign="middle">
-        <kbd>
         <img src="./image1.svg" width="100%" style="border-radius: 8px;" />
-        </kbd>
       </td>
       <td width="92%" align="center" valign="middle">
         <a href="https://git.io/typing-svg">
