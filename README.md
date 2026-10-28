@@ -1,3 +1,5 @@
+<table>
+<tr>
 <div align="right">
 <img src="./image1.svg" width="50%">
 </div>
@@ -17,6 +19,8 @@
 <br>
 
 </div>
+</tr>
+</table>
 
 <br>
 
