@@ -1,10 +1,9 @@
 <table>
 <tr>
-<div align="right">
-<img src="./image1.svg" width="50%">
+<div>
+<img src="./image1.svg" width="50%"/>
 </div>
-
-<div align="left">
+<div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day)](https://git.io/typing-svg)
 
