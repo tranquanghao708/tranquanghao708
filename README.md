@@ -4,7 +4,7 @@
       <td width="48%" align="center" valign="middle">
         <img src="./image1.svg" width="100%" style="border-radius: 8px;" />
       </td>
-      <td width="72%" align="top" valign="middle">
+      <td width="92%" align="center" valign="middle">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00C853&center=true&vCenter=true&width=780&lines=whoami+%3D+reverse+engineer;disassembling+binaries+for+fun;C+%2B+Assembly+%2B+Linux+internals;still+learning+every+day" alt="Typing SVG" />
         </a>
