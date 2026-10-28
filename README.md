@@ -11,10 +11,6 @@
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=tranquanghao708)
-<img src="https://img.shields.io/badge/Cybersecurity-Low--level-00C853?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Reverse+Engineering-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/Area-System+%26+Binary-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge&logo=todoist&logoColor=white" />
 
 <br>
 
