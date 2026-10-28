@@ -1,4 +1,4 @@
-<div align="right">
+<div align="right" width="10%">
 <img src="./image1.svg">
 </div>
 
