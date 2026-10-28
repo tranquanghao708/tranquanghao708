@@ -1,7 +1,7 @@
 <p align="center">
   <table width="100%">
     <tr>
-      <td width="38%" align="center" valign="middle">
+      <td width="48%" align="center" valign="middle">
         <img src="./image1.svg" width="100%" style="border-radius: 8px;" />
       </td>
       <td width="62%" align="center" valign="middle">
